@@ -11,7 +11,7 @@ export default () => (
     <Layout>
         <SimpleHero>
             <Banner
-                title="Let's Explore!"
+                title="Let's Go Explore!"
                 info="Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                 sed do eiusmod tempor incididunt ut labore et dolore magna
                 aliqua.">
